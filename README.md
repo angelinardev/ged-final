@@ -11,3 +11,6 @@ d = spawn a duck
 within the duck's collider. This is what counts as a miss - spamming shoot when you have not "tried" to 
 shoot a duck will not necessarily work in reversing the inputs.
 This is done to more accurately represent what "missing" is.
+
+*For the duck spawn, the ducks spawn randomly and so sometimes it may appear off screen. Just try again until you
+get one that is on screen.
